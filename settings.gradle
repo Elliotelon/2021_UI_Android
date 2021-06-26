@@ -1,3 +1,4 @@
+include ':LinearLayout'
 include ':viewbasic'
 include ':app'
 rootProject.name = "study-ui"
