@@ -1,3 +1,4 @@
+include ':relativelayout'
 include ':tablelayout'
 include ':framelayout'
 include ':LinearLayout'
