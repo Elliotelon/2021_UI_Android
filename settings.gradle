@@ -1,3 +1,4 @@
+include ':textinputlayout'
 include ':edittext'
 include ':button'
 include ':textview'
