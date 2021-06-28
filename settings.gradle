@@ -1,3 +1,4 @@
+include ':imageview'
 include ':textinputlayout'
 include ':edittext'
 include ':button'
