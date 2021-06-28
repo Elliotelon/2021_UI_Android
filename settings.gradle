@@ -1,3 +1,4 @@
+include ':checkbox'
 include ':togglebutton'
 include ':imageview'
 include ':textinputlayout'
