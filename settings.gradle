@@ -1,3 +1,4 @@
+include ':edittext'
 include ':button'
 include ':textview'
 include ':includeotherlayout'
