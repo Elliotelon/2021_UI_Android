@@ -1,3 +1,4 @@
+include ':switch'
 include ':radiobutton'
 include ':checkbox'
 include ':togglebutton'
