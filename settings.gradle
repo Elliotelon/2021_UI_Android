@@ -1,3 +1,4 @@
+include ':checkedtextview'
 include ':switch'
 include ':radiobutton'
 include ':checkbox'
