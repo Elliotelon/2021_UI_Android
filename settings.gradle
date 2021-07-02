@@ -1,3 +1,4 @@
+include ':chip'
 include ':checkedtextview'
 include ':switch'
 include ':radiobutton'
