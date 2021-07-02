@@ -1,3 +1,4 @@
+include ':progressbar'
 include ':chip'
 include ':checkedtextview'
 include ':switch'
