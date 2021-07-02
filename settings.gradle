@@ -1,3 +1,4 @@
+include ':customlistview2'
 include ':customlistview1'
 include ':listview'
 include ':cardview'
