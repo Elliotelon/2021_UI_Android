@@ -1,3 +1,4 @@
+include ':cardview'
 include ':scrollview'
 include ':ratingbar'
 include ':seekbar'
