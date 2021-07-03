@@ -1,3 +1,4 @@
+include ':viewpager'
 include ':gridview'
 include ':spinner1'
 include ':customadapter'
