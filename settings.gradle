@@ -1,3 +1,4 @@
+include ':singlechoicelistview'
 include ':multiautocompletetextview'
 include ':autocompletetextview'
 include ':viewpager'
