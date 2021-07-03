@@ -1,3 +1,4 @@
+include ':autocompletetextview'
 include ':viewpager'
 include ':gridview'
 include ':spinner1'
